@@ -1,4 +1,4 @@
-language: rust
+language: shell
 
 branches:
   only:
